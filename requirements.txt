@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ipykernel
+tensorflow==2.*
+nbformat
+flake8
+black
+pytest
