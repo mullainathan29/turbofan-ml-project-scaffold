@@ -74,7 +74,7 @@ FD004
 Each subset represents different operating conditions and fault modes.
 
 📎 Official source:
-https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
+https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 
 🛠️ Environment Setup
 Prerequisites
